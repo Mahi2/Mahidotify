@@ -1,6 +1,6 @@
 # Mahidotify
 Simple template notification system with Php and MySql
 
-'''php
+```php
 echo("Code your freedom, by Mahid");
-'''
+```
